@@ -10,7 +10,7 @@ $ pkg install git
 
 $ git clone https://github.com/capitancomando/password-list-generator
 
-$ Chmod 711 password-list-generator.sh
+$ chmod 711 password-list-generator.sh
 
 $ ls
 
